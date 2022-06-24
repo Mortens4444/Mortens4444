@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, my name is Mortens 👋
+
+I think, I'm a little bit C# fan.
+
+[![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444)](https://github.com/Mortens4444/github-readme-stats)
 
 <!--
 **Mortens4444/Mortens4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
