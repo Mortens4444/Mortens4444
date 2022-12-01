@@ -1,5 +1,7 @@
 ### Hello, my name is Mortens 👋
 
+Slogan: I believe in perfection, but often we need to be satisfied with fewer.
+
 I think, I'm a little bit C# fan.
 
 [![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444&theme=merko&show_icons=true&include_all_commits=true&disable_animations=false&langs_count=8)](https://github.com/Mortens4444/github-readme-stats)
