@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<codersrank-summary username="Mortens4444"></codersrank-summary>
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mortens4444
