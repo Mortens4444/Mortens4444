@@ -4,7 +4,8 @@ I think, I'm a little bit C# fan.
 
 Slogan: I believe in perfection, but often we need to be satisfied with fewer.
 
-🔭 I’m currently working on [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1)
+🔭 I’m currently working on LiveView.
+💬 Ask me about [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1)
 💬 Ask me about [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1)
 
 [![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444&theme=merko&show_icons=true&include_all_commits=true&disable_animations=false&langs_count=8)](https://github.com/Mortens4444/github-readme-stats)
