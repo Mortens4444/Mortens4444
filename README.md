@@ -1,6 +1,6 @@
 ### Hello, my name is Mortens 👋
 
-I think, I'm a little bit C# fan.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortens4444)
 
 Slogan: I believe in perfection, but often we need to be satisfied with fewer.
 
