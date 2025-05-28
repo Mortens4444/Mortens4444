@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mortens4444
+![CodersRank score (Once upon a time)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mortens4444)
+
