@@ -6,9 +6,7 @@ Slogan: I believe in perfection, but often we need to be satisfied with fewer.
 
 🔭 I’m currently working on LiveView.
 
-💬 Ask me about [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1)
-
-💬 Ask me about [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1)
+💬 Ask me about [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1) or [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1)
 
 
 [![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444&theme=merko&show_icons=true&include_all_commits=true&disable_animations=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,5 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CodersRank score (Once upon a time)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Mortens4444)
-
+![CodersRank Score](https://img.shields.io/badge/dynamic/json?label=CodersRank&query=total_score&url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2FMortens4444&color=orange&suffix=%20Score)
