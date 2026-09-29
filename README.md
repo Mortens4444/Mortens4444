@@ -9,11 +9,11 @@ Slogan: I believe in perfection, but often we have to settle for less.
 💬 Ask me about my [Apps](https://samu.us/mortens/), [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1) or [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1) or [M.A.G.U.S. Assistant](https://play.google.com/store/apps/details?id=com.mortens.MAGUS.Assistant)
 
 [LEGO Mindstorms EV3 Discord Server](https://discord.gg/cQ3GPbrph)
-
-[![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444&theme=merko&show_icons=true&include_all_commits=true&disable_animations=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![@mortens's Holopin board](https://holopin.io/api/user/board?user=mortens)](https://holopin.io/@mortens)
+[![Mortens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortens4444&theme=merko&show_icons=true&include_all_commits=true&disable_animations=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![@mortens's Holopin board](https://holopin.io/api/user/board?user=mortens)](https://holopin.io/@mortens)
+
 <!--
 **Mortens4444/Mortens4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
