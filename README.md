@@ -6,7 +6,7 @@ Slogan: I believe in perfection, but often we have to settle for less.
 
 🔭 I’m currently working on LiveView.
 
-💬 Ask me about my [Appsg](https://samu.us/mortens/), [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1) or [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1) or [M.A.G.U.S. Assistant](https://play.google.com/store/apps/details?id=com.mortens.MAGUS.Assistant)
+💬 Ask me about my [Apps](https://samu.us/mortens/), [H4ckW1thM3](https://play.google.com/store/apps/details?id=com.mortens.H4ckW1thM3&pli=1) or [KertMester](https://play.google.com/store/apps/details?id=com.mortens.kertmester&pli=1) or [M.A.G.U.S. Assistant](https://play.google.com/store/apps/details?id=com.mortens.MAGUS.Assistant)
 
 [LEGO Mindstorms EV3 Discord Server](https://discord.gg/cQ3GPbrph)
 
